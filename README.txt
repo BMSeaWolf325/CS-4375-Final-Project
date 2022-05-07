@@ -13,4 +13,3 @@ This project has the following dependencies:
 - imbalanced-learn (imblearn) - https://imbalanced-learn.org/stable/install.html
 
 To run the project, install the dependencies and ensure that the data (healthcare-dataset-stroke-data.csv) is in the same file location as the jupyter notebook (Final Project Code.ipynb).
-NOTE: The data is included in the zip file.
